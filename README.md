@@ -1,7 +1,7 @@
 guessformat
 =====
 
-[![NPM](https://nodei.co/npm/escodegen-guessformat.png)](https://nodei.co/npm/escodegen-guessformat/)
+[![NPM](https://nodei.co/npm/guessformat.png)](https://nodei.co/npm/guessformat/)
 
 Makes a guess at the format of a string of JS code and gives formatting options found.
 
