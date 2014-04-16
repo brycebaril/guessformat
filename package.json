@@ -2,7 +2,7 @@
   "name": "guessformat",
   "version": "1.0.0",
   "description": "Makes a guess at formatting style of a given js string.",
-  "main": "index.js",
+  "main": "guessformat.js",
   "scripts": {
     "test": "node test/"
   },
