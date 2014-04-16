@@ -1,6 +1,6 @@
 {
   "name": "guessformat",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Makes a guess at formatting style of a given js string.",
   "main": "index.js",
   "scripts": {
