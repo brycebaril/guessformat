@@ -33,7 +33,7 @@ API
 `guess(jsString[, maxLines])`
 ---
 
-Guess scan up to the first maxLines (default=100) lines of the jsString to observe the formatting options used.
+Scan up to the first maxLines (default=100) lines of the jsString to observe the formatting options used.
 
 Right now it supports:
   * semicolons
